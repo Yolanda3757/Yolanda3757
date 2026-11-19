@@ -42,4 +42,43 @@ Consultas y validación de integridad de datos, pruebas de servicios REST y docu
 Desarrollo de scripts de pruebas automatizadas y aplicaciones web.
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**📋 Gestión, Herramientas y Metodologías:**
+Gestión de ciclos de prueba, reporte de defectos, análisis de datos, control de versiones y marcos de trabajo ágiles (Scrum / Metodologías Ágiles).
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Metodologías Ágiles](https://img.shields.io/badge/Metodologías_Ágiles-239120?style=for-the-badge&logo=agile&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel Avanzado](https://img.shields.io/badge/Excel_Avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 🚀 Portafolio de Proyectos en GitHub
+
+* **[Proyecto APP](https://github.com/Yolanda3757/APP)** — *Desarrollo y prácticas de aplicación y aseguramiento de calidad.*
+* **[Mi Proyecto](https://github.com/Yolanda3757/miproyecto)** — *Repositorio de ejercicios prácticos, pruebas y control de versiones.*
+* **Suite de Automatización E2E *(En desarrollo)*** — *Scripts de pruebas automatizadas con Playwright y Cypress.*
+
+---
+
+### 🎓 Formación Académica y Certificaciones
+
+* **Ingeniería de Software** — *En curso*
+* **Análisis de Datos** — Laboratoria
+* **Excel Avanzado y Power BI** — CET Colsubsidio / TecAlianza
+
+---
+
+### 📫 Contacto
+
+* **GitHub:** [github.com/Yolanda3757](https://github.com/Yolanda3757)
+* **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/)
