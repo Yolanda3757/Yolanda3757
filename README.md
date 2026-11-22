@@ -1,6 +1,10 @@
 # María Yolanda Bernal Rodríguez
 ### QA Analyst | Manual, API & Data Testing | Estudiante de Ingeniería de Software
+---
 
+### 🤝 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yolanda-bernal-rodriguez)
 ---
 
 ### 👩‍💻 Quién soy
